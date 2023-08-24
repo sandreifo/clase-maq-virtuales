@@ -1,0 +1,4 @@
+1. El lenguaje de programacion depende de un lenguaje compilador que depende de la arquitectura del sistema operativo.
+2. Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenB>
+3. permite que un ordenador host preste soporte a varias m      quinas virtuales invitadas mediante el uso compartido vir>
+4. Si una de ellas falla, no afectar       al funcionamiento del resto.
